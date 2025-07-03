@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emin</h1>
+<h1 align="center">Hello World 👋, I'm Emin</h1>
 <h3 align="center">Junior Flutter Developer | Passionate about UX & AI-powered mobile apps</h3>
 
 - 🔭 I’m currently working on **AI-enhanced workout and fitness apps (GymAI)**  
